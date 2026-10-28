@@ -1,0 +1,5 @@
+groq>=0.37.1
+gradio>=6.30.0
+pandas>=3.0.6
+numpy>=2.5.4
+python-dotenv
